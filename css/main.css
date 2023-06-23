@@ -141,26 +141,26 @@ ul {
   text-decoration:line-through
 }
 
-#cb1, 
-#cb2,
-#cb3,
-#cb4,
-#cb5,
-#cb6,
-#cb7,
-#cb8,
-#cb9,
-#cb10,
-#cb11,
-#cb12,
-#cb13,
-#cb14,
-#cb15,
-#cb16,
-#cb17,
-#cb18,
-#cb19,
-#cb20 {
+#ingredients-cb1, 
+#ingredients-cb2,
+#ingredients-cb3,
+#ingredients-cb4,
+#ingredients-cb5,
+#ingredients-cb6,
+#ingredients-cb7,
+#ingredients-cb8,
+#ingredients-cb9,
+#ingredients-cb10,
+#ingredients-cb11,
+#ingredients-cb12,
+#ingredients-cb13,
+#ingredients-cb14,
+#ingredients-cb15,
+#ingredients-cb16,
+#ingredients-cb17,
+#ingredients-cb18,
+#ingredients-cb19,
+#ingredients-cb20 {
   accent-color: var(--primary-500);
 }
 
