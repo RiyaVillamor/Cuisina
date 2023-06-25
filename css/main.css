@@ -290,6 +290,11 @@ ul {
 
 /* End of Normalize CSS */
 
+
+html {
+  scroll-behavior: smooth;
+}
+
 /* Navbar */
 
 .navbar {
@@ -387,6 +392,17 @@ ul {
 }
 
 /* End of Navbar */
+
+/* certain recipe directory-link */
+.meatballs {
+  color: var(--primary-500);
+}
+
+.meatballs:hover {
+  color: var(--primary-700);
+}
+
+/* end of certain recipe directory-link */
 
 /*Page*/
 
