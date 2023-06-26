@@ -509,7 +509,7 @@ html {
   display: block;
   color: var(--primary-500);
   transition: var(--transition);
-  background-color: transparent
+  background-color: transparent;
 }
 .tags-list a:hover {
   color: var(--primary-600);
