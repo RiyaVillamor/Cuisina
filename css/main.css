@@ -511,6 +511,7 @@ html {
   transition: var(--transition);
   background-color: transparent;
 }
+
 .tags-list a:hover {
   color: var(--primary-600);
   background-color: transparent
